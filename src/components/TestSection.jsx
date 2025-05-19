@@ -1,5 +1,5 @@
-import User1 from '@/assets/profile2.jpg'
-import User2 from '@/assets/profile3.jpg'
+import User1 from '../assets/profile2.jpg'
+import User2 from '../assets/profile3.jpg'
 
 
 
